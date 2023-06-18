@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VIT_MERN_INTERNSHIP_COLOR_PICKER/static/css/main.fb35bce1.css",
+    "main.js": "/VIT_MERN_INTERNSHIP_COLOR_PICKER/static/js/main.8e954d07.js",
+    "static/js/787.b3ca4345.chunk.js": "/VIT_MERN_INTERNSHIP_COLOR_PICKER/static/js/787.b3ca4345.chunk.js",
+    "index.html": "/VIT_MERN_INTERNSHIP_COLOR_PICKER/index.html",
+    "main.fb35bce1.css.map": "/VIT_MERN_INTERNSHIP_COLOR_PICKER/static/css/main.fb35bce1.css.map",
+    "main.8e954d07.js.map": "/VIT_MERN_INTERNSHIP_COLOR_PICKER/static/js/main.8e954d07.js.map",
+    "787.b3ca4345.chunk.js.map": "/VIT_MERN_INTERNSHIP_COLOR_PICKER/static/js/787.b3ca4345.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb35bce1.css",
+    "static/js/main.8e954d07.js"
+  ]
+}
